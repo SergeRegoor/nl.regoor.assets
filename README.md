@@ -1,1 +1,1 @@
-# nl.regoor.assets
+Assets for other repositories
